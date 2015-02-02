@@ -1,110 +1,249 @@
 {
   "basics": {
-    "name": "Steven Edouard",
-    "label": "Developer Evangelist",
-    "picture": "https://scontent-b-sjc.xx.fbcdn.net/hphotos-prn1/t1.0-9/603953_10151522578258327_946466229_n.jpg ",
-    "email": "steven.edouard1@gmail.com",
-    "website": "http://stevenedouard.com",
-    "summary": "I am a Developer Evangelist for Microsoft. Every day I work to empower individuals to build awesome things. I eventually hope to pursue a role where I can have high impact on a product.",
+    "name": "Tyson J. Hayes",
+    "label": "Dev/Ops Engineer",
+    "picture": "https://dl.dropboxusercontent.com/s/limk3wud0rp1pif/resume-photo.jpg",
+    "email": "jobs@tysonjhayes.com",
+    "website": "http://tysonjhayes.com",
+    "summary": "I am looking to expand my development career. I have found a love of writing and maintaining code.  The challenges that come with this work have kept me busy for a while and I am looking to move to more challenging software development engineer or DevOps roles.  If it runs on Windows I want to be able to tear it apart, patch it, and get it back out the door. I would also love to be able to architect and release some of my own programs that suite the business needs.",
     "location": {
-      "city": "San Francisco",
+      "city": "Redmond",
       "countryCode": "US",
-      "region": "California"
+      "region": "Washington"
     },
     "profiles": [
       {
         "network": "Resume Source",
-        "url": "http://github.com/sedouard/resume",
+        "url": "http://github.com/tysonjhayes/resume",
         "username": "This Resume is built from this Github Repo"
       },
       {
         "network": "Twitter",
-        "username": "sedouard",
-        "url": "http://twitter.com/sedouard"
+        "username": "tysonjhayes",
+        "url": "http://twitter.com/tysonjhayes"
       },
       {
         "network": "Github",
-        "username": "sedouard",
-        "url": "https://github.com/sedouard"
+        "username": "tysonjhayes",
+        "url": "https://github.com/tysonjhayes"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "tysonjhayes",
+        "url": "http://linkedin.com/in/tysonjhayes"
       }
     ]
   },
   "work": [
     {
-      "company": "Microsoft",
-      "position": "Developer Evangelist",
-      "website": "http://microsoft.com",
-      "startDate": "2014-03-04",
-      "summary": "Responsible for increasing adoption of Microsoft developer platforms.",
+      "company": "Turn 10 Productions",
+      "position": "Dev/Ops Engineer",
+      "website": "http://forzamotorsport.net/Turn10",
+      "startDate": "2013-08-15",
+      "summary": "Responsible for managing the servers and releases for the Studio.",
       "highlights": [
-        "Created many technical blog posts focusing on cloud and web development with Microsoft tech",
-        "Successfully won Techcrunch Disrupt Hardware Sponsor Award",
-        "Delivered dozens of original technical presentations from high school to pro developers",
-        "Went from 12 to >100 average unique daily website views",
-        "Authored 2 articles on MSDN magazine"
+        "Switched Server Deployments to PowerShell Desired State Configuration (DSC) drove deployments of server to minutes instead of hours",
+        "Deployed Splunk to monitor our data logging to assist in the discovery of errors and to manage the volume of servers for this deployment",
+        "Worked on switching Client Deployments for in house computers to DSC to keep workstations and images up to date",
+        "Tested and debugged server code for XBOX One flagship title, and releases there after",
+        "Refactored numerous scripts to use unit testing and drove Dev/Ops to a more Test/Behavior Driven Development using the Pester testing framework. Allowing for a more solid script design",
+        "Drove Ops changes to allow us to catch problems faster and provide a better user experience when playing the game",
+        "Shipped: Forza 5 Motorsport + 17 Content Updates and 9 DLC Packs",
+        "Shipped: Forza Horizon 2 + 10 Content Updates, 6 DLC Packs & Storm Island DLC",
+        "Shipped: Forza Horizon 2 360"
       ]
     },
     {
-      "company": "Microsoft",
-      "position": "Software Development Engineer in Test, Common Language Runtime",
-      "website": "http://www.microsoft.com/net",
-      "startDate": "2012-01-22",
-      "endDate": "2014-03-04",
-      "summary": "Responsible for integration, dynamic testing and diagnostics of the Common Language Runtime.",
+      "company": "Microsoft - Exchange Online",
+      "position": "Software Development Engineer",
+      "website": "http://microsoft.com/office",
+      "startDate": "2013-01-02",
+      "endDate": "2013-08-13",
+      "summary": "Developed core line of business application tools used by Operations Teams to maximize efficency, and codify best practices.",
       "highlights": [
-        "Created innovative test validations and infrastructure for Microsoft .NET Runtime debugger and diagnostics APIs consumed by Visual Studio ",
-        "Extended Visual Studio Test Explorer it to run complex end-to-end scenario tests",
-        "Assisted in customer on-boarding to .NET 4.5.1 by syncing with feature teams to diagnose issues",
-        "Drove product test results and collaborated with various feature teams across .NET to drive validation pass rates"
+        "Designed test automation for LOB and pushed for TDD on all new features",
+        "Pushed for better commenting and development design practices for entire team",
+        "Improved performance of LOB application by 30% through debugging, and refactoring existing code",
+        "Developed ASP.NET applications to ease and automate the engagement process",
+        "Designed ASP.NET application to allow self-service queue management for Operations team",
+        "Automated reporting for teams to automate queries and report building. Reduced 10 man hours to a simple report"
       ]
     },
     {
-      "company": "Lockheed Martin Mission Systems",
-      "position": "Software Engineer Intern (4 summers)",
-      "website": "http://www.lockheedmartin.com",
-      "startDate": "2008-01-22",
-      "endDate": "2011-08-01",
-      "summary": "Obtained critical experience during college on software development for mission-critical scenarios.",
+      "company": "Microsoft - Exchange Online",
+      "position": "Dev/Ops Engineer 2",
+      "website": "http://microsoft.com/office",
+      "startDate": "2011-01-02",
+      "endDate": "2012-12-31",
+      "summary": "Developed, and automated Operations tasks and support.",
       "highlights": [
-        "Designed system requirements for autonomous underwater vehicle ",
-        "Designed and implemented features on common software for use with multiple vehicles ",
-        "Performed software cost estimates",
-        "Implemented software features for sonar system displays"
+        "Engineered and automated Exchange 2013 deployment. Reduced build times, and increased productivity",
+        "Assisted with debugging and resolving code bugs in Exchange 2013.",
+        "Authored engineering documents on setup, deployment, and design of Exchange 2013",
+        "Wrote and maintained PowerShell automation scripts that decrease alerting and automate resolution",
+        "Wrote Power Shell scripts that reduced time spent on data gathering, automating 24 man hours of work, per engineer, into a simple script",
+        "Automated Service Level Agreement (SLA) calculations. The job previously took three people to maintain on a per incident basis, now is calculated automatically and daily",
+        "Supported all mail routing issues between mail environments, specifically between internal AD environments and to customer hosted Domino servers",
+        "Assisted in maintaining Windows 2003/2008 servers, working quickly to implement solutions and strived to maintain for a 24x7 uptime"
+      ]
+    },
+    {
+      "company": "Microsoft - Exchange Online",
+      "position": "Dev/Ops Engineer",
+      "website": "http://microsoft.com/office",
+      "startDate": "2010-08-02",
+      "endDate": "2011-07-31",
+      "summary": "Developed, and automated Operations tasks and support.",
+      "highlights": [
+        "Tier 3 break-fix for internal Microsoft Corp servers, dedicated customer exchange environments, and a large (1 Million+ seat) multi-tenant exchange environment.",
+        "Identified bugs and partnered with the Product Group, to create and implement solutions across platform.",
+        "Identified and solved a script bug costing $50,000 a month. Partnered with engineering team to design and deploy new scripts to solve the bug for all customers.",
+        "Improved and maintained troubleshooting documents allowing Tier 1 and Tier 2 to take ownership of problems, freeing up more Tier 3 resources.",
+        "Supported all mail routing issues between mail environments, specifically between internal AD environments and to customer hosted Domino servers.",
+        "Assisted in maintaining Windows 2003/2008 servers, working quickly to implement solutions and strived to maintain for a 24x7 uptime."
+      ]
+    },
+    {
+      "company": "Microsoft - Exchange Online",
+      "position": "Support Engineer Tier 2",
+      "website": "http://microsoft.com/office",
+      "startDate": "2010-06-03",
+      "endDate": "2010-08-03",
+      "summary": "Provided Tier 2 technical support for Microsoft Exchange, Outlook, SharePoint, Live Meeting and Office Communicator.",
+      "highlights": [
+        "Assisted customers in resolving on-premise system and network related issues.",
+        "Performed testing on production applications in preparation for release both domestically and internationally.",
+        "Constructed and implemented plans to grow and improve productivity for the team as well as provided continued training for new and existing agents.",
+        "Worked with other team managers to collaboratively create plans and time lines for the support center as a whole to increase productivity and positive outcomes.",
+        "Assisted corporate customers in on-site deployment of the Business Productivity Online Suite."
+      ]
+    },
+    {
+      "company": "Microsoft - Exchange Online",
+      "position": "Support Engineer Tier 1",
+      "website": "http://microsoft.com/office",
+      "startDate": "2010-02-02",
+      "endDate": "2010-06-02",
+      "summary": "Provided Tier 1 technical support for Microsoft Exchange, Outlook, SharePoint, Live Meeting and Office Communicator.",
+      "highlights": [
+        "Assisted customers in resolving on-premise system and network related issues.",
+        "Performed testing on production applications in preparation for release both domestically and internationally.",
+        "Constructed and implemented plans to grow and improve productivity for the team as well as provided continued training for new and existing agents.",
+        "Worked with other team managers to collaboratively create plans and time lines for the support center as a whole to increase productivity and positive outcomes.",
+        "Assisted corporate customers in on-site deployment of the Business Productivity Online Suite."
+      ]
+    },
+    {
+      "company": "Premera Blue Cross",
+      "position": "Help Desk",
+      "website": "http://premera.com",
+      "startDate": "2009-09-02",
+      "endDate": "2009-12-31",
+      "summary": "Provided Tier 1 technical support for Microsoft Exchange, Outlook, SharePoint, Live Meeting and Office Communicator.",
+      "highlights": [
+        "Assisted customers in resolving on-premise system and network related issues.",
+        "Performed testing on production applications in preparation for release both domestically and internationally.",
+        "Constructed and implemented plans to grow and improve productivity for the team as well as provided continued training for new and existing agents.",
+        "Worked with other team managers to collaboratively create plans and time lines for the support center as a whole to increase productivity and positive outcomes.",
+        "Assisted corporate customers in on-site deployment of the Business Productivity Online Suite."
+      ]
+    },
+    {
+      "company": "eNom",
+      "position": "Technical Support",
+      "website": "http://enom.com",
+      "startDate": "2008-03-02",
+      "endDate": "2010-07-31",
+      "summary": "Provided Tier 2 support on operations and practices including but not limited to, SSL, ccTLDs, gTLDs, and hosting environments.",
+      "highlights": [
+        "Identified bugs and partnered with development team, using SharePoint and TFS, to create and implement solutions across platform, supporting over 13 million users.",
+        "Assisted with coding issues and the setup/installation/troubleshooting of VeriSign, and Comodo SSL certificates.",
+        "Worked with Internet headers and bounce messages to resolve email problems.",
+        "Worked with our DNS servers to resolve domain issues.",
+        "Assisted customers with using our Windows (IIS) and Linux (Plesk) hosting accounts, as well connecting and using their MySQL, MSSQL, or Access databases on our systems.",
+        "Provided training to new hires and current team members on products and technologies.",
+        "Assisted customers with billing problems using internal tools and credit card processor utilities.",
+        "Communicated with customers through phone and the RNT ticketing system, averaging 80-160 points of contact a day."
+      ]
+    },
+    {
+      "company": "Starbucks",
+      "position": "Barista",
+      "website": "http://starbucks.com",
+      "startDate": "2004-06-01",
+      "endDate": "2008-02-28",
+      "summary": "Utilized Barista skills to maintain a fast pace, friendly attitude and quality customer assistance",
+      "highlights": [
+        "Helped create and maintain a team oriented atmosphere that promoted the knowledge culture, values and mission of Starbucks",
+        "Prioritized customer and team feedback to create the “third place” atmosphere of Starbucks",
+        "Trained and mentored new hires on basic barista skills and further development as partners",
+        "Maintaining media bar, assist customers with the basic mechanics of the media bar as well as trouble shooting when the media bar is out of order",
+        "Responsible for maintaining coffee equipment and general store equipment"
+      ]
+    },
+    {
+      "company": "Wal-Mart",
+      "position": "Associate",
+      "website": "http://walmart.com",
+      "startDate": "2002-06-01",
+      "endDate": "2004-02-28",
+      "summary": "Maintained a vast and intimate knowledge of products, including televisions, computers, and phones",
+      "highlights": [
+        "Provided in-person and over the phone technical support to customers who needed help utilizing the full functionality of their purchases",
+        "Assisted the Electronics, Chemicals, and Pets Departments maintain their inventory and team to maximize sales and efficiency"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "TEALS",
-      "position": "Teacher",
-      "website": "http://tealsk12.org",
-      "startDate": "2012-07-01",
-      "endDate": "2013-05-05",
-      "summary": "High school Teacher for an inner-city computer science class.",
+      "organization": "Child's Play",
+      "position": "Volunteer",
+      "website": "childsplaycharity.org",
+      "startDate": "2012-12-15",
+      "endDate": "2012-12-15",
+      "summary": "Volunteered for the Child's Play dinner in assisting running the show.",
       "highlights": [
-        "Featured in the International New York Times"
+        "Raised 1 Million dollars during the event."
+      ]
+    },
+    {
+      "organization": "Penny Arcade Expo",
+      "position": "Deputy Logistics Manager",
+      "website": "paxsite.com",
+      "startDate": "2008-08-28",
+      "endDate": "2010-08-28",
+      "summary": "Enforcer (volunteer) at for the Penny Arcade Expo",
+      "highlights": [
+        "Managed a team of people whose main funciton is getting items moved from one point to another."
+      ]
+    },
+    {
+      "organization": "Penny Arcade Expo",
+      "position": "VIP Enforcer",
+      "website": "paxsite.com",
+      "startDate": "2011-08-28",
+      "endDate": "2012-08-28",
+      "summary": "Enforcer (volunteer) at for the Penny Arcade Expo",
+      "highlights": [
+        "Was an assistant to the VIPs for the show."
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "University of Florida",
-      "area": "Computer Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2007-08-01",
-      "endDate": "2011-12-01",
-      "gpa": "3.47"
-    }
-  ],
-  "awards": [
-    {
-      "name": "Visual Studio Team Excellence Light House Award",
-      "date": "2013-04-01",
-      "awarder": "Visual Studio Team - Microsoft",
-      "summary": "Given to member of the Visual Studio team who goes above and beyond their role."
-    }
-  ],
+  "education": [{
+      "institution": "Highline Community College",
+      "area": "General Education",
+      "studyType": "Associate of Arts",
+      "startDate": "2000-01-04",
+      "endDate": "2004-06-15"
+    }],
   "skills": [
+    {
+      "name": "PowerShell",
+      "level": "Master",
+      "keywords": [
+        "Desired State Configuration"
+      ]
+    },
     {
       "name": "C# and .NET",
       "level": "Master",
@@ -113,27 +252,33 @@
       ]
     },
     {
+      "name": "SQL",
+      "level": "Intermediate"
+    },
+    {
       "name": "Node.js",
-      "level": "Intermediate",
+      "level": "Beginner",
       "keywords": [
-        "javascript",
-        "express"
+        "Javascript"
       ]
     },
     {
-      "name": "Cloud Services",
-      "level": "Master",
+      "name": "Microsoft Exchange",
+      "level": "Intermediate",
       "keywords": [
-        "PaaS",
-        "Storage",
-        "APIs"
+        "Active Directory",
+        "Outlook",
+        "Microsoft Office",
+        "Blackberry Enterprise Server"
       ]
     },
     {
-      "name": "iOS Application Development",
+      "name": "Web Development",
       "level": "Intermediate",
       "keywords": [
-        "Objective-C"
+        "HTML",
+        "CSS",
+        "Javascript"
       ]
     }
   ],
@@ -142,5 +287,38 @@
       "language": "English",
       "fluency": "Native speaker"
     }
-  ]
+  ],
+  "references": [{
+    "name": "Adam Gates",
+    "reference": "I worked with Tyson in support of the Office 365 Exchange service for Microsoft's Dedicated, Internal, and Development Exchange Environments. While on my team Tyson was very successful as the Technical Lead and in that role was the escalation point for up to 20 other engineers. I relied on Tyson to be the point person for the most difficult, visible, and largest impacting issues. He regularly took on issues that impacted 200k+ users calmly, clearly, and with deep technical ability repeatedly and successfully resolving issues with deep insight that led to changing the service and product. Tyson has a natural talent for technology, is an excellent resource for his peers, an inspiring technical leader, and is an all-around great engineer. I look forward to any opportunity to work with Tyson in the future."
+    },
+    {
+      "name": "Marie Casey",
+      "reference": "Tyson goes out of his way to study, learn, and practice skills and competencies that enable him to achieve more, no matter the job he is working. He also leverages his learning to advance his entire group, which really sets him apart. Tyson is more than a valuable addition to any workplace: his willingness to share, mentor, and enrich makes him an asset that multiples value in a team."
+    },
+    {
+      "name": "Thanh Thai",
+      "reference": "Tyson played a significant role in assisting with the deployment of Exchange 2013 within our beta testing environment. His focus was on documentation and automating the deployment which made upgrading and handling the environment off to our Operations team smooth. His scripting and programming skills were displayed and evolved over this period of time."
+    },
+    {
+      "name": "Mark Jones",
+      "reference": "Tyson is a very detailed, creative and self-motivated individual. I know that the project he was working for me on was severely hampered when he was pulled off. I would be glad to have Tyson on any project I was heading up or working on."
+    },
+    {
+      "name": "Cory Odegard",
+      "reference": "I have had the opportunity work with Tyson over the last few years and I highly recommend Tyson. He is detail oriented and ensures when a task is assigned he fully understands the scope and desired outcome then works extremely hard to attain or exceed stated goals. His knowledge and understanding of the technologies he works with is impressive and I would happily take the opportunity to work with him, directly or otherwise, at any point in the future."
+    },
+    {
+      "name": "Kjell Andorson",
+      "reference": "It is my distinct pleasure to write this recommendation for Tyson who was widely known and respected within our org as not just a top-notch engineer, but a scripting guru that constantly worked to improve and automate tasks within our environment and who could be counted on to find elegant solutions to complex problems. His insight and dedication helped save countless man-hours of labor and his efforts were praised by management and fellow engineers alike. Tyson would be a great asset to any technical team and I can't recommend him highly enough."
+    },
+    {
+      "name": "Jason Raney",
+      "reference": "Tyson is one of the smartest guys I know. He not only is able to write extremely well in multiple programing languages, but he makes it understandable and easy to read. His experience and abilities with Microsoft Exchange is excellent and was able to help me out of a bind multiple times.  The tools he has developed are very intuitive and easy to use, at the same time powerful and time saving. I would recommend Tyson for any job that would require someone to have excellent work ethics, be reliable, and have a strong skill in writing tools and automation for Microsoft products. "
+    },
+    {
+      "name": "Hillary Crenshaw",
+      "reference": "In our many years of association Tyson has constantly proved himself to be not only a gifted writer and talented developer, but also a master of social media and all things tech. As marketing strategist for Apathy Games he has been the wizard behind our media presence, working tirelessly to promote and expand our company’s place in the gaming and internet communities. Tyson’s writing and work for our website and recent RPG game exemplifies the creativity and wit that makes working alongside him a true pleasure."
+    }
+    ]
 }
